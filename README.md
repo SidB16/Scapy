@@ -1,2 +1,2 @@
 # Scapy
-Fullfilling need to hack networks (ethically) :smirky-cat:
+Fullfilling need to hack networks (ethically) :smirk-cat:
