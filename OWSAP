@@ -10,3 +10,8 @@ https://www.techylib.com/en/view/crashclappergap/owasp_broken_web_applications
 http://garage4hackers.com/archive/index.php/t-147.html
 
 OFFICIAL OWASP WIKI: https://code.google.com/archive/p/owaspbwa/wikis/UserGuide.wiki
+
+Notes regarding OWSAP VM:
+1) Used source forge
+2) Used Bridge Adaptor using enol interface.
+3) Ran on-liner.
