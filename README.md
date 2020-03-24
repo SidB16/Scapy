@@ -1,8 +1,8 @@
 # Scapy (In-progress :hammer: :hammer:)
-Fullfilling my need to hack networks (ethically) :smirk_cat:
-uberscapy
+Fullfilling my need to hack networks (ethically) :scream_cat:
 
-# uberscapy (Credits: https://github.com/0x90)
+
+# Credits: https://github.com/0x90
 Scapy docs, examples, scripts and other stuff
 
 ## WARNiNG: NOT ALL SCRIPTS ARE TESTED! CHECK BEFORE RUNNING!
